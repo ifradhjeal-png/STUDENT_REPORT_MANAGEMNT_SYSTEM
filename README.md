@@ -1,2 +1,17 @@
-# STUDENT_REPORT_MANAGEMNT_SYSTEM
-STUDENT_REPORT_MANAGEMENT_SYSTEM IS BASICALLY USED TO SEE THE STUDENT DATA AND PERFORMANCE AND TO MANIPULATE ANY STUDENT DATA SUCH AS 1.Add a new student record (Name, ID, Marks, Grade) 2.View all records 3.Search for a student by ID or name 4.Update a student’s marks 5.Delete a student record 6.Show top 3 students by marks
+# Student Report Management System
+
+A student management system to track and manage student records and performance.
+
+## Features
+- Add a new student record (Name, ID, Marks, Grade)
+- View all student records
+- Search for a student by ID or Name
+- Update a student’s marks
+- Delete a student record
+- Display the top 3 students by marks
+
+## How it works
+Users interact via a simple console interface to perform all operations.
+
+## Built With
+Java
